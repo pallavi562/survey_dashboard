@@ -1,3 +1,4 @@
+
 ## 📝 Survey Data Visualization Dashboard
 
 ## 📌 Description  
@@ -28,6 +29,8 @@ Run all cells to generate visualizations and insights.
 View charts and dashboards for response analysis
 
 📊 Screenshots
+![Figure 1](https://github.com/user-attachments/assets/97ba5952-bd39-45a1-9d33-c436a1b658af)
+![figure_2](https://github.com/user-attachments/assets/99ac9bd7-f67a-4757-a12a-5f922fb7c8a8)
 
 🚀 Future Enhancements
 
